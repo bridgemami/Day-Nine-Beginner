@@ -1,5 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans&family=Noto+Serif&display=swap');
 
+body {
+    background-color: aqua;
+}
 h1 {
     font-family: 'Noto Serif', serif;
     letter-spacing: 1rem;
