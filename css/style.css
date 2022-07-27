@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&family=Noto+Serif&display=swap');
+
+h1 {
+    font-family: 'Noto Serif', serif;
+    letter-spacing: 1rem;
+    text-align: center;
+}
+
+p {
+    font-family: 'Noto Sans', sans-serif;
+    line-height: 2rem;
+}
+
+.justify {
+    text-align: justify;
+}
